@@ -1,0 +1,20 @@
+hr{
+    height: 1px;
+    width: 50px;
+    border-top-style: dotted;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    
+    border-width: 6px;
+    border-color: gray;
+    background-color: none;
+}
+
+h1, h3{
+    color: #555555;
+}
+
+body{
+    background-color: aliceblue;
+}
